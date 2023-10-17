@@ -1,7 +1,7 @@
 # Exact-Toeplitz-to-SSM-Conversion
 Official implementation of the algorithm ETSC: [Exact Toeplitz-to-SSM Conversion] our EMNLP 2023 paper - Accelerating Toeplitz Neural Network with Constant-time Inference Complexity.
 
-Paper will comming soon.
+Paper coming soon.
 
 ## Experiments
 `transformation.py` for Algorithm 1. `speed_test.py` for speed memory test.
