@@ -4,7 +4,8 @@ Official implementation of the algorithm ETSC: [Exact Toeplitz-to-SSM Conversion
 Paper coming soon.
 
 ## Algorithm
-[](./algo.jpg)
+
+![](./algo.jpg)
 
 ## Experiments
 `transformation.py` for Algorithm 1. `speed_test.py` for speed memory test.
